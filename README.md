@@ -1,4 +1,4 @@
-# WalmartSalesForecasting
+# RetailSalesForecasting
 The project focuses on **forecasting Walmart's department-wide sales** using historical data from 2010 to 2013, incorporating factors like promotional markdowns and economic indicators. Employing **Linear Regression**, **Random Forest**, and **Support Vector Machine** algorithms, the study cleans and prepares the data, emphasizing the significance of holiday periods on sales. Among the models tested, Random Forest outperformed others, showcasing its effectiveness in predicting weekly sales with the lowest **Mean Absolute Error**, demonstrating the potential for improving inventory management and strategic planning in retail operations.
 
 ## Dataset  
